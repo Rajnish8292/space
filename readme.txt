@@ -1,0 +1,1 @@
+CTRL (17) -> encryption window pop up

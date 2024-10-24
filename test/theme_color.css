@@ -1,0 +1,43 @@
+
+/* Color Theme Swatches in Hex */
+.green-smoke-along-black-background-1-hex { color: #0DF205; }
+.green-smoke-along-black-background-2-hex { color: #0BD904; }
+.green-smoke-along-black-background-3-hex { color: #078C03; }
+.green-smoke-along-black-background-4-hex { color: #034001; }
+.green-smoke-along-black-background-5-hex { color: #0D0D0D; }
+
+/* Color Theme Swatches in RGBA */
+.green-smoke-along-black-background-1-rgba { color: rgba(12, 242, 4, 1); }
+.green-smoke-along-black-background-2-rgba { color: rgba(11, 216, 4, 1); }
+.green-smoke-along-black-background-3-rgba { color: rgba(7, 140, 2, 1); }
+.green-smoke-along-black-background-4-rgba { color: rgba(3, 63, 1, 1); }
+.green-smoke-along-black-background-5-rgba { color: rgba(12, 12, 12, 1); }
+
+/* Color Theme Swatches in HSLA */
+.green-smoke-along-black-background-1-hsla { color: hsla(118, 96, 48, 1); }
+.green-smoke-along-black-background-2-hsla { color: hsla(118, 96, 43, 1); }
+.green-smoke-along-black-background-3-hsla { color: hsla(118, 96, 28, 1); }
+.green-smoke-along-black-background-4-hsla { color: hsla(118, 96, 12, 1); }
+.green-smoke-along-black-background-5-hsla { color: hsla(0, 0, 5, 1); }
+
+
+/* Color Theme Swatches in Hex */
+.UI/UX-1-hex { color: #010D00; }
+.UI/UX-2-hex { color: #8C8377; }
+.UI/UX-3-hex { color: #BFB3A4; }
+.UI/UX-4-hex { color: #D9CDBF; }
+.UI/UX-5-hex { color: #0D0D0D; }
+
+/* Color Theme Swatches in RGBA */
+.UI/UX-1-rgba { color: rgba(0, 12, 0, 1); }
+.UI/UX-2-rgba { color: rgba(140, 130, 119, 1); }
+.UI/UX-3-rgba { color: rgba(191, 179, 164, 1); }
+.UI/UX-4-rgba { color: rgba(216, 205, 190, 1); }
+.UI/UX-5-rgba { color: rgba(12, 12, 12, 1); }
+
+/* Color Theme Swatches in HSLA */
+.UI/UX-1-hsla { color: hsla(118, 96, 2, 1); }
+.UI/UX-2-hsla { color: hsla(33, 8, 50, 1); }
+.UI/UX-3-hsla { color: hsla(33, 17, 69, 1); }
+.UI/UX-4-hsla { color: hsla(33, 25, 79, 1); }
+.UI/UX-5-hsla { color: hsla(0, 0, 5, 1); }
